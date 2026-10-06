@@ -1,0 +1,261 @@
+*{
+    background-image: url(bgI.jpg);
+    padding: 0%;
+    margin: 0%;
+}
+#navBar{
+    border: 3px solid aliceblue;
+    border-radius: 2cm;
+}
+
+#logo{
+    color: lightblue;
+    font-size: 3cm;
+    inline-size: 3cm;
+    background-color: black;
+    text-align: center;
+    margin-left: 45%;
+    margin-bottom: 13px;
+    border-radius: 20px;
+    border: 3px solid aliceblue;
+}
+
+.navb{
+    display: flex inline;
+    color: rgb(249, 246, 246);
+    padding: 14px;
+    text-align: center;
+    margin: 14px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border: 3px solid rgb(255, 251, 251);
+    background-color: rgb(22,113,162);
+}
+
+a{
+    color: whitesmoke;
+    background: transparent;
+    text-decoration: none;
+}
+.logo1{
+    display: flex inline;
+    color: rgb(249, 246, 246);
+    padding: 14px;
+    text-align: center;
+    margin: 14px;
+    background-color: rgb(22,113,162);
+    inline-size: 14px;
+    font-size: 14px;
+    border-radius: 20px;
+    border: 3px solid rgb(253, 253, 253);
+}
+li{
+    list-style: none;
+    display: inline-block;
+    font-weight: bold;
+    background: transparent;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    background-color:lightblue;
+    margin: 0%;
+}
+
+#image{
+    background-image: url(tii.png);
+}
+
+pre{
+    display: flex;
+    color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.7cm;
+    margin: 0%;
+    text-align: center;
+    background: transparent;
+}
+
+#name{
+    color: lightblue;
+    font-size: 1.27cm;
+    text-align: center;
+    margin: 0%;
+    font-size: 1.7cm;
+    margin-left: 13.7cm;
+    margin-right: 14.28cm;
+    margin-bottom: 7px;
+    background: transparent;
+}
+
+#name:hover{
+    color: rgb(251, 251, 251);
+    background-color: lightblue;
+}
+
+#sub1{
+    font-size: 1.3cm;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    inline-size: 530px;
+    margin-right: 480px;
+}
+
+#intro{
+    color: lightblue;
+    font-size: 1.5cm;
+    margin: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 7.5cm;
+    margin-bottom: 0.5cm;
+    margin-top: 30px;
+    inline-size: 0%;
+}
+
+#quot{
+    color: lightblue;
+    background-color:none ;
+    text-align: center;
+    font-size: 1.27cm;
+    margin: 7px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    inline-size: 740px;
+    text-align: center;
+    margin-left:10.7cm;
+    justify-content: center;
+    inline-size: 670px;
+}
+img{
+    border-radius: 20px;
+    margin: 20px;
+    margin-right: 200px;
+}
+
+#imageb{
+    margin-top: 2cm;
+    background-image: url(kaamchalau.png); 
+    background-size:30px;
+}
+
+#logo:hover{
+    background-color: lightblue;
+    color: rgb(255, 247, 247);
+}
+
+
+
+.logo1:hover{
+    background-color: white;
+    color: lightblue;
+}
+
+#sub1:hover{
+    color: lightblue;
+    background-color: aliceblue;
+}
+
+#quot:hover{
+    background-color: lightblue;
+    color: rgb(255, 255, 255);
+}
+
+#box1{
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px;
+    background: transparent;
+}
+
+.bb1{
+    padding: 30px 10px 30px;
+    margin:30px 0px 30px;
+    display: block;
+    justify-content: baseline;
+    background-color: rgb(234, 220, 220);
+    border:2px azure;
+    box-shadow: 0 0 13px lightblue;
+    margin-right: 40px;
+    background: transparent;
+}
+.bb2{
+    padding: 40px;
+    margin: 0px;
+    display: block;
+    justify-content: baseline;
+    background-color: rgb(234, 220, 220);
+    border:2px azure;
+    box-shadow: 0 0 13px lightblue;
+    margin-left: 40px;
+    background: transparent;
+}
+
+h1{
+    text-align: center;
+    background: transparent;
+}
+
+#skills{
+    border-color: aliceblue;
+    background: transparent;
+}
+
+ul{
+    list-style: none;   
+    background: transparent;
+    
+}
+li{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius:  10px;
+}
+
+.bb2:hover{
+    box-shadow: 0 0 20px red;
+}
+
+.bb1:hover{
+    box-shadow: 0 0 20px #DE1110;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.footxt{
+    color: aliceblue;
+    
+}
+
+#about{
+    box-shadow: 0 0 20px lightblue;
+    width: 600px;
+    margin-left: 12cm;
+    background: transparent;
+}
+
+#about:hover{
+    box-shadow: 0 0 20px red;
+
+}
+
+#about h1{
+    margin: 0%;
+    padding-top: 9px;
+    color: aliceblue;
+}
+
+p{
+    background: transparent;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+footer{
+    background: transparent;
+}
